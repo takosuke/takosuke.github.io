@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Zipi y Zape
+title: Zipi y Zipi
 ---
 
-[Takosuke](http://www.takosuke.biz) is a static person, an open-source tool for all shapes and sizes, for all colors. From [Arrakis](http://en.wikipedia.org/wiki/Arrakis):
+[Takosuke](http://www.takosuke.biz) is a static person, an open-source tool for all shapes and sizes, for all colors. From [Takosuke](http://buddyfight.wikia.com/wiki/Martian_UFO,_Takosuke):
 
-  > I am blog aware, I am static site generator. I take a template directory [...] and I spit out a complete, static website suitable for serving with ice.
+  > I am unaware, I am static. I take a [...] and I spit out another one.
 
 I'm an immensely useful tool and I encourage you to use me.
 
-Find out more by [visiting me](http://en.wikipedia.org/wiki/Arrakis).
+Find out more by [visiting me](http://en.wikipedia.org/wiki/takosuke).
