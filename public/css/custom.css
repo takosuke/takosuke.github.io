@@ -2,3 +2,8 @@ h1.title {
   font-family:sans-serif, Helvetica;
   }
 
+@media (min-width:48em){
+  #sidebar-menu.sidebar-sticky {
+    bottom:auto;
+  }
+}
