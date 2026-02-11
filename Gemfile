@@ -33,3 +33,7 @@ gem 'jekyll-sitemap'
 gem 'kramdown-math-katex'
 
 gem "webrick", "~> 1.7"
+
+# Added proofer to comply with deploy workflow. Delete that part of the workflow
+# if it gets annoying
+gem "html-proofer"
