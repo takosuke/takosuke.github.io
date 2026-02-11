@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "83467d7ac16a2fb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "80397073f87b873f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab3e58a5d7ad165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-02-10-uya-capuya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-10-uya-capuya"
+            }
+          },
+          {
+            "id": "ffcad2b9500db606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/2026-02-11-test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-11-test"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6b57cbe575f2303",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbc2adbddf3b9ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41da53fc59ddff7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a2d5703efd966f24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5b2e28a94b2fc103",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95297556351a30a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "42eb3604951e1ce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f75166bdf78b17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d3c2d51dc2d989a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8ff0c46c4016c185",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "303730fdf0804342",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "13b7732c641e0233",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ffcad2b9500db606",
+  "lastOpenFiles": [
+    "_site/notes/2026-02-11-test-1.html",
+    "_site/assets/img/posts/2026-02-11-test.png",
+    "_site/notes/2026-02-11-test.html",
+    "_site/notes/2026-02-11-test.md",
+    "_site/assets/img/posts/2026-02-11-test.png",
+    "_site/notes/Untitled.html",
+    "_site/notes/Untitled.md",
+    "_site/assets/img/posts/Untitled.png",
+    "_posts/2024-01-15-welcome-to-jekyll-garden.md",
+    "_notes/Public/2026-02-11-test.md",
+    "_notes/Public/2026-02-11-obsidiana-olivina-ole-ole-ole.md",
+    "_notes/Public_backup/Customization.md",
+    "_site/notes/2026-02-11-obsidiana-olivina-ole-ole-ole-1.html",
+    "_site/assets/img/posts/2026-02-11-obsidiana-olivina-ole-ole-ole-2.png",
+    "_site/notes/2026-02-11-obsidiana-olivina-ole-ole-ole-1.html",
+    "_site/assets/img/posts/2026-02-11-obsidiana-olivina-ole-ole-ole-2.png",
+    "assets/img/posts/2026-02-11-obsidiana-olivina-ole-ole-ole-1.png",
+    "_site/notes/2026-02-11-obsidiana-olivina-ole-ole-ole-1.html",
+    "_site/assets/img/posts/2026-02-11-obsidiana-olivina-ole-ole-ole-1.png",
+    "_site/notes/2026-02-11-obsidiana-olivina-ole-ole-ole-1.html",
+    "_site/assets/img/posts/2026-02-11-obsidiana-olivina-ole-ole-ole-1.png",
+    "_site/notes/2026-02-11-obsidiana-olivina-ole-ole-ole-1.html",
+    "_site/assets/img/posts/2026-02-11-obsidiana-olivina-ole-ole-ole-1.png",
+    "_site/notes/2026-02-11-obsidiana-olivina-ole-ole-ole-1.html",
+    "_site/assets/img/posts/2026-02-11-obsidiana-olivina-ole-ole-ole-1.png",
+    "_site/assets/img/posts",
+    "_site/notes/2026-02-11-obsidiana-olivina-ole-ole-ole-1.html",
+    "_site/notes/2026-02-11-obsidiana-olivina-ole-ole-ole.md",
+    "Untitled.md",
+    "_site/Untitled.md",
+    "_templates/jekyll template.md",
+    "_notes/Public/2026-02-8-Uaaa.md",
+    "_site/README.md",
+    "_posts/2026-02-10-tacata.md",
+    "_posts/2026-02-10-te-jodes-erodes.md",
+    "_posts/2026-02-10-hahahahaheheh.md",
+    "_posts/2026-02-10-gogogogo.md",
+    "_posts/2026-02-10-almendras-en-remojo.md",
+    "_posts/2026-02-10-hohoho.md",
+    "README.md",
+    "_posts/2026-02-10-uya-capuya.md",
+    "_posts/Untitled.md",
+    "_posts/2026-02-8-Uaaa.md",
+    "_posts/My idiotic poast.md"
+  ]
+}
